@@ -1,0 +1,40 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.c-title {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.c-company {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.c-address {
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.price-before {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.price-now {
+    font-size: 20px;
+    font-weight: 500;
+    color:
+}
+
+.contacto-title {
+    font-size: 21px;
+    font-weight: 500;
+}
+
+footer {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
